@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.australian.museum/media/dd/images/1600px-Green_Turtle_Chelonia_mydas_6133097542.width-1200.c1df197.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://nationalzoo.s
+   i.edu/sites/default/files/styles/wide/public/animals/eastern-box-turtle-01.jpg?itok=13TbYo99">
+ <img alt="Little Turtle" src="https://static.wikia.nocookie.net/superautopets/images/e/e9/Turtle.png/revision/latest?cb=20230409201013">
+</picture>
+
+## About me
+Hello
+
 <!--
 **Magnagod/Magnagod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
